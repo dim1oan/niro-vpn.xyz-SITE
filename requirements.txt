@@ -1,0 +1,17 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+jinja2==3.1.4
+SQLAlchemy==2.0.35
+aiosqlite==0.20.0
+pydantic==2.9.2
+pydantic-settings==2.5.2
+httpx[http2]==0.27.2
+cryptography==43.0.1
+qrcode[pil]==8.0
+Pillow==10.4.0
+structlog==24.4.0
+bcrypt==4.2.1
+python-multipart==0.0.17
+itsdangerous==2.2.0
+greenlet==3.1.1
+python-dateutil==2.9.0.post0
